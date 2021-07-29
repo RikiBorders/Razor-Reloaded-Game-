@@ -3,6 +3,9 @@ A side-scrolling shooter game developed in Python. This game features 6 unique a
 All artwork and programming was done independently by me. Instructions on how to play can be found in the game's settings menu, and all stages are available for play
 after clicking 'play'.
 
+**Running the Game**
+In order to run the game, Razor Reloaded.exe must be in the same directory as the sounds and sprites folders. After both folders and the exe are placed in the same directroy, the exe can be launched to play the game without a need for installation.
+
 
 This game was developed in winter 2019. I privated the original repository as it's messy, and creating a new repo would be quicker and cleaner. A full changelog can be found below (development notes I maintained while developing the game in 2019):
 
