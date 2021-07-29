@@ -7,6 +7,7 @@ after clicking 'play'.
 This game was developed in winter 2019. I privated the original repository as it's messy, and creating a new repo would be quicker and cleaner. A full changelog can be found below (development notes I maintained while developing the game in 2019):
 
 
+
 12/23/2019:
 Create window, and player object. Player should be able to move up, down, left, and right.
 
